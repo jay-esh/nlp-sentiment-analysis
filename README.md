@@ -3,7 +3,8 @@ A small sentiment analysis project on AMZN stock using natural language processi
 
 Here I used a pre-trained nlp model to predict the stock price: [https://huggingface.co/yiyanghkust/finbert-tone](https://huggingface.co/yiyanghkust/finbert-tone)
 
-I used the matplot library to plot the actual and the prediction graph of the AMZN stock.
+I used the matplot library to plot the actual and the prediction curves of the AMZN stock.
+
 ![prediction graph](https://github.com/jay-esh/nlp-sentiment-analysis/blob/main/Prediction.png)
 Orange curve is the predicted curve and the Blue curve is formed using the stock price data from yahoo finance. 
 

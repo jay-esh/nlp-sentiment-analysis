@@ -5,7 +5,7 @@ Here I used a pre-trained nlp model to predict the stock price: [https://hugging
 
 I used the matplot library to plot the actual and the prediction curves of the AMZN stock.
 
-![prediction graph](https://github.com/jay-esh/nlp-sentiment-analysis/blob/main/Prediction.png) { width: 200px; }
+![prediction graph](https://github.com/jay-esh/nlp-sentiment-analysis/blob/main/Prediction.png)
 Orange curve is the predicted curve and the Blue curve is formed using the stock price data from yahoo finance. 
 
 Used yahoo finance library to get the actual stock price data from the past.
